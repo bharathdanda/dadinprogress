@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://bharathdanda.github.io//github/sitemap.xml 
